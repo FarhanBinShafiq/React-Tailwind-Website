@@ -1,3 +1,7 @@
+ 
+ 
+ Live Link : https://react-tailwind-simple-website.netlify.app/
+ 
  It's a simple one page website.
  
  TechnologY:
